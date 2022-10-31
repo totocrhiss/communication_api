@@ -1,0 +1,25 @@
+{
+  "POST": [
+    {
+      "first_name": "Christian",
+      "last_name": "Pazmany",
+      "article_add": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, molestias!",
+      "userId": 1667115290348,
+      "id": 1
+    },
+    {
+      "first_name": "Chloé",
+      "last_name": "Sentore",
+      "article_add": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.\nDelectus consequuntur facilis molestiae tenetur ratione\nvero obcaecati numquam magnam veritatis? Hic facere,\nad delectus ab quibusdam, dicta dolore perferendis odio architecto\neum corporis quod quis impedit assumenda! Ducimus voluptate dolor\nfuga distinctio iusto modi odio expedita ea,\nsit nulla quisquam. Necessitatibus?",
+      "userId": 1667126757957,
+      "id": 2
+    },
+    {
+      "first_name": "Laetitia",
+      "last_name": "Lerault",
+      "article_add": "Beau tir d'un lac cristallin à côté d'une base\nde montagne enneigée au cours d'une journée ensoleillée.",
+      "userId": 1667144183552,
+      "id": 3
+    }
+  ]
+}
